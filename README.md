@@ -7,6 +7,6 @@ This project was conducted using Arduino C/C++, and Processing.
 Thanks to many of the previous contributors, we could save our time to get the project be done.
 References of this project can be found at the link below.
 
-REFERENCES]
+# REFERENCES]
 https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/
 https://howtomechatronics.com/projects/arduino-radar-project/
